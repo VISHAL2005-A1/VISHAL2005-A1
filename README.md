@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**VISHAL2005-A1/VISHAL2005-A1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vishal Gautam
 
-Here are some ideas to get you started:
+I am a passionate MERN Stack Developer and ECE student who enjoys solving problems and building innovative projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- MERN Stack Development
+- Data Structures & Algorithms
+- System Design
+
+## 🛠️ Tech Stack
+- C++, JavaScript
+- React.js, Node.js, Express.js
+- MongoDB
+- Git, GitHub, VS Code
+
