@@ -21,9 +21,9 @@ const vishal = {
   university: "IET Lucknow — B.Tech ECE (2027)",
   cgpa:        7.73,
   location:   "Lucknow, India 🇮🇳",
-  currently:  ["Building Forge 🔨", "Contributing to GSoC 2026", "Solving DSA"],
-  askMeAbout: ["MERN Stack", "Next.js", "System Design", "Open Source"],
-  funFact:    "I bridge hardware signals and software systems 🔌💻",
+  currently:  ["Building Forge 🔨", "Solving DSA"],
+  askMeAbout: ["MERN Stack", "Next.js", "System Design",],
+  
 };
 ```
 
