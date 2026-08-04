@@ -19,7 +19,7 @@ const vishal = {
   name:       "Vishal Gautam",
   role:       "Full Stack Web Developer",
   university: "IET Lucknow — B.Tech ECE (2027)",
-  cgpa:        7.82,
+  cgpa:        7.73,
   location:   "Lucknow, India 🇮🇳",
   currently:  ["Building Forge 🔨", "Contributing to GSoC 2026", "Solving DSA"],
   askMeAbout: ["MERN Stack", "Next.js", "System Design", "Open Source"],
