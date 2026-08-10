@@ -120,7 +120,7 @@ const vishal = {
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/150+%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vineetb2b2123/)
+[![LeetCode](https://img.shields.io/badge/200+%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vineetb2b2123/)
 
 </div>
 
