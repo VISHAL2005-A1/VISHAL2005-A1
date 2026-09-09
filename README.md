@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,100:7c3aed&height=200&section=header&text=Vishal%20Gautam&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20ECE%20Student&descAlignY=58&descColor=d1fae5" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,100:7c3aed&height=200&section=header&text=Vishal%20Gautam&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20AI%20Engineer%20%7C%20Building%20AI-Powered%20Applications&descAlignY=58&descColor=d1fae5" width="100%" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there!+I'm+Vishal+%F0%9F%91%8B;MERN+Stack+Developer;Full+Stack+Web+Engineer;ECE+Student+%40+IET+Lucknow;Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there!+I'm+Vishal+%F0%9F%91%8B;Full+Stack+AI+Engineer;Building+AI-Powered+Applications;RAG+%7C+LLMs+%7C+FastAPI+%7C+Next.js;Backend+%7C+Cloud+%7C+DevOps;ECE+Student+%40+IET+Lucknow)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,12 +17,12 @@
 ```ts
 const vishal = {
   name:       "Vishal Gautam",
-  role:       "Full Stack Web Developer",
+  role:       "Full Stack AI Engineer",
   university: "IET Lucknow — B.Tech ECE (2027)",
   cgpa:        7.73,
   location:   "Lucknow, India 🇮🇳",
-  currently:  ["Building Forge 🔨", "Solving DSA"],
-  askMeAbout: ["MERN Stack", "Next.js", "System Design",],
+  currently:  ["Building Forge 🔨", "Solving DSA"]
+
   
 };
 ```
